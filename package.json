@@ -1,6 +1,6 @@
 {
   "name": "adonis-api-app",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "adonis-version": "4.1.0",
   "description": "Adonisjs boilerplate for API server with pre-configured JWT",
   "main": "index.js",
@@ -38,7 +38,8 @@
     "@adonisjs/validator": "^5.0.6",
     "adonis-kue": "^5.0.1",
     "moment": "^2.24.0",
-    "pg": "^7.9.0"
+    "pg": "^7.9.0",
+    "raven": "^2.6.4"
   },
   "devDependencies": {
     "eslint": "^5.15.3",
